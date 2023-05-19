@@ -65,6 +65,6 @@
 </p>
 </br></br></br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=AshkanAbd&show_icons=true&count_private=true&theme=github_dark" alt="AshkanAbd" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanAbd&layout=compact&hide=makefile,cmake,c%2B%2B,c,html,java,assembly,shell,css,python&theme=github_dark" alt="AshkanAbd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanAbd&layout=compact&hide=makefile,cmake,c%2B%2B,c,html,java,assembly,shell,css,python&theme=github_dark&exclude_repo=efcore,ReportSharp.DatabaseReporter,ReportSharp.DiscordReporter,ReportSharp.Api,dotnet_template,AppCommand,socket_sharp" alt="AshkanAbd" /></p>
 </br>
 <p align="center">&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=AshkanAbd&theme=darkhub&no-bg=false&margin-w=20&title=Stars,MultiLanguage,Commits,Repositories,PullRequest" alt="AshkanAbd"/> </p>
