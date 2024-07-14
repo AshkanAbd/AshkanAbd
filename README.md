@@ -15,53 +15,52 @@
 <div align="left">
 <h3 >Languages:</h3>
 <p > 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg' alt="tool" width="40" height="40"/>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg' alt="golang" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-line.svg' alt="rust" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg' alt="node-js" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' alt="javascript" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' alt="typescript" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg' alt="csharp" width="40" height="40"/>
 </p>
 <h3 >Frameworks:</h3>
 <p >
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg' alt="tool" width="40" height="40"/>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg' alt="nestjs" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg' alt="express" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg' alt="dotnet" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg' alt="dotnet" width="40" height="40"/>
 </p>
 <h3 >Tools:</h3>
 <p >
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codecov/codecov-plain.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg' alt="tool" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg' alt="npm" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg' alt="yarn" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original-wordmark.svg' alt="nuget" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg' alt="socketio" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg' alt="graphql" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg' alt="eslint" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg' alt="jest" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg' alt="kafka" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg' alt="aws" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg' alt="azure" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg' alt="docker" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg' alt="nginx" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg' alt="prometheus" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg' alt="grafana" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg' alt="firebase" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg' alt="git" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg' alt="github" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg' alt="gitlab" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg' alt="mongodb" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg' alt="mysql" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg' alt="postgresql" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg' alt="sqlite" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg' alt="redis" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg' alt="ubuntu" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg' alt="linux" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codecov/codecov-plain.svg' alt="codecov" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg' alt="confluence" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg' alt="slack" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg' alt="jira" width="40" height="40"/>&nbsp;
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg' alt="terllo" width="40" height="40"/>&nbsp;
 </p>
 </br></br></br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=AshkanAbd&show_icons=true&count_private=true&theme=github_dark" alt="AshkanAbd" /></p>
